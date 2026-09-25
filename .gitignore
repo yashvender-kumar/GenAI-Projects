@@ -11,7 +11,23 @@ venv/
 __pycache__
 *.pyc
 
-
-
-
 speech.txt
+
+# Environment variables
+.env
+
+# Vector database
+chroma_db/
+
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code temp files
+tempCodeRunnerFile.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
